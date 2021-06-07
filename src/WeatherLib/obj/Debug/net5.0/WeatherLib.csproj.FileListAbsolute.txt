@@ -1,0 +1,12 @@
+D:\Blackboard\DotNet\MyConsoleAPI\src\WeatherLib\bin\Debug\net5.0\WeatherLib.deps.json
+D:\Blackboard\DotNet\MyConsoleAPI\src\WeatherLib\bin\Debug\net5.0\WeatherLib.dll
+D:\Blackboard\DotNet\MyConsoleAPI\src\WeatherLib\bin\Debug\net5.0\ref\WeatherLib.dll
+D:\Blackboard\DotNet\MyConsoleAPI\src\WeatherLib\bin\Debug\net5.0\WeatherLib.pdb
+D:\Blackboard\DotNet\MyConsoleAPI\src\WeatherLib\obj\Debug\net5.0\WeatherLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Blackboard\DotNet\MyConsoleAPI\src\WeatherLib\obj\Debug\net5.0\WeatherLib.AssemblyInfoInputs.cache
+D:\Blackboard\DotNet\MyConsoleAPI\src\WeatherLib\obj\Debug\net5.0\WeatherLib.AssemblyInfo.cs
+D:\Blackboard\DotNet\MyConsoleAPI\src\WeatherLib\obj\Debug\net5.0\WeatherLib.csproj.CoreCompileInputs.cache
+D:\Blackboard\DotNet\MyConsoleAPI\src\WeatherLib\obj\Debug\net5.0\WeatherLib.dll
+D:\Blackboard\DotNet\MyConsoleAPI\src\WeatherLib\obj\Debug\net5.0\ref\WeatherLib.dll
+D:\Blackboard\DotNet\MyConsoleAPI\src\WeatherLib\obj\Debug\net5.0\WeatherLib.pdb
+D:\Blackboard\DotNet\MyConsoleAPI\src\WeatherLib\obj\Debug\net5.0\WeatherLib.csprojAssemblyReference.cache

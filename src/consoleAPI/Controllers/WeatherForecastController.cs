@@ -26,5 +26,10 @@ namespace consoleAPI.Controllers
             WeatherLib.Weather weather = new WeatherLib.Weather();
             return weather.GetWeather();
         }
+
+        public int AddNumbers(int a, int b)
+        {
+            return a + b;
+        }
     }
 }
